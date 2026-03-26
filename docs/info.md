@@ -17,4 +17,4 @@ Turn it on and flick the switches
 
 ## External hardware
 
-1 LED
+1 LED.
